@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/inshorts-clone/static/css/main.5eb8bfb4.chunk.css",
+    "main.js": "/inshorts-clone/static/js/main.506029b0.chunk.js",
+    "main.js.map": "/inshorts-clone/static/js/main.506029b0.chunk.js.map",
+    "runtime-main.js": "/inshorts-clone/static/js/runtime-main.3372a09d.js",
+    "runtime-main.js.map": "/inshorts-clone/static/js/runtime-main.3372a09d.js.map",
+    "static/js/2.f6222581.chunk.js": "/inshorts-clone/static/js/2.f6222581.chunk.js",
+    "static/js/2.f6222581.chunk.js.map": "/inshorts-clone/static/js/2.f6222581.chunk.js.map",
+    "index.html": "/inshorts-clone/index.html",
+    "static/css/main.5eb8bfb4.chunk.css.map": "/inshorts-clone/static/css/main.5eb8bfb4.chunk.css.map",
+    "static/js/2.f6222581.chunk.js.LICENSE.txt": "/inshorts-clone/static/js/2.f6222581.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3372a09d.js",
+    "static/js/2.f6222581.chunk.js",
+    "static/css/main.5eb8bfb4.chunk.css",
+    "static/js/main.506029b0.chunk.js"
+  ]
+}
